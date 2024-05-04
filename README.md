@@ -1,2 +1,2 @@
 # first-terraform-git-repo
-this is first-repo-from-terrraform
+To check Terraform Refresh command, this is first-repo-from-terrraform
