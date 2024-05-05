@@ -1,2 +1,2 @@
 # first-terraform-git-repo
-this is first-repo-from-terrraform
+this is first-repo-from-terraform
